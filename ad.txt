@@ -13,3 +13,5 @@
 ||quantserve.com^
 /imp.gif?
 /greenoaks.gif?
+||sanme2.lanzoui.com^
+||cnzz.com^$third-party
