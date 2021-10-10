@@ -7,3 +7,9 @@
 /collect/pv?
 /count?type=
 ||qq.com/speed
+||ezodn.com^
+/securepubads.
+||googletagmanager.com^
+||quantserve.com^
+/imp.gif?
+/greenoaks.gif?
