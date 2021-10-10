@@ -15,3 +15,8 @@
 /greenoaks.gif?
 ||sanme2.lanzoui.com^
 ||cnzz.com^$third-party
+||youtube.com/api/stats/qoe?
+/googleads.
+||youtube.com/ptracking?
+/log_event?
+/pagead2.
