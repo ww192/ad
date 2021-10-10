@@ -1,1 +1,9 @@
 ||adssettings.google.com
+##.adsbygoogle
+###adv-2
+||cpro.baidustatic.com^
+/pagead2.
+||speedtest.cn/api/v2/show?
+/collect/pv?
+/count?type=
+||qq.com/speed
