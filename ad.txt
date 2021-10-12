@@ -21,8 +21,8 @@
 /log_event?
 /pagead2.
 ||dlswbr.baidu.com^
-||zhidao.bsidu.com/m/static^
+||zhidao.baidu.com/m/static^
 ||hm.baidu.com^
 ||pos.baidu.com^
 ||zhidao.baidu.com/mobile/ajax^
-zhidao.baidu.com$$div[class="ddodle-container"]
+zhidao.baidu.com$$div[class="doodle-container"]
