@@ -25,3 +25,4 @@
 ||hm.baidu.com^
 ||pos.baidu.com^
 ||zhudao.baidu.com/mobile/ajax^
+||zhidao.baidu.com$$div[class="ddodle-container"]
