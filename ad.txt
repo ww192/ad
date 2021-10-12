@@ -26,3 +26,4 @@
 ||pos.baidu.com^
 ||zhidao.baidu.com/mobile/ajax^
 ||zhidao.baidu.com$$div[class="doodle-container"]
+_ads_
