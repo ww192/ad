@@ -20,3 +20,8 @@
 ||youtube.com/ptracking?
 /log_event?
 /pagead2.
+||dlswbr.baidu.com^
+||zhidao.bsidu.com/m/static^
+||hm.baidu.com^
+||pos.baidu.com^
+||zhudao.baidu.com/mobile/ajax^
