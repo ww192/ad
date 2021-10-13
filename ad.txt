@@ -27,3 +27,8 @@
 ||zhidao.baidu.com/mobile/ajax^
 ||zhidao.baidu.com$$div[class="doodle-container"]
 _ads_
+/ad_
+||youtube.com/api/stats^
+*/ad
+/adview*
+||youtube.com/pagead/
