@@ -32,3 +32,5 @@ _ads_
 */ad
 /adview*
 ||youtube.com/pagead/
+||woozooo.com/img/*.js
+||cnzz.com^$third-party
