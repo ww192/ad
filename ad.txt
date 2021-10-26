@@ -34,3 +34,6 @@ _ads_
 ||youtube.com/pagead/
 ||woozooo.com/img/*.js
 ||cnzz.com^$third-party
+||doubleclick.ctfile.com^
+||ctfile.com/iz.php?
+/ad_display
