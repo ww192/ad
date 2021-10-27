@@ -37,3 +37,4 @@ _ads_
 ||doubleclick.ctfile.com^
 ||ctfile.com/iz.php?
 /ad_display
+||jin.baidu.com/cloan/operation/activity
